@@ -20,10 +20,10 @@ Technologies Used
 
 Usage
 	1.	Launch the app using the Stocks_app.py script.
-	3.	Create an account or login
- 	4. 	Search for stocks or browse by sector.
-	5.	Click on a stock to view price trends and key financial metrics.
-	6.	Use interactive charts to analyze market movements.
+	2.	Create an account or login
+ 	3. 	Search for stocks or browse by sector.
+	4.	Click on a stock to view price trends and key financial metrics.
+	5.	Use interactive charts to analyze market movements.
 
 Future Improvements
 
